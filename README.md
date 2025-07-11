@@ -11,6 +11,5 @@
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/your-username/saru-binance-bot.git
-cd saru-binance-bot
+git clone https://github.com/Saraswat1/crypto-trading-bot
 pip install -r requirements.txt
